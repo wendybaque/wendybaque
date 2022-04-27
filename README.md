@@ -11,6 +11,8 @@ Javascript | HTML5 | CSS3 | React.js | Node.js | Express.js | MySQL
 # Design :
 Figma | Canva | Tailwind css 
 
+# A propos de moi
+
 Après un bilan de compétences réalisé en full remote, je suis en reconversion dans le domaine du développement web et web mobile. 💻
 
 Je suis une personne rigoureuse, ce qui me permet de mener à bien mes projets et activités confiées de A à Z et de bien gérer mon temps de travail. Je fais également preuve de créativité et d' imaginativité, ce qui me pousse à trouver des solutions innovantes et originales pour répondre aux besoins des clients. Enfin, ma curiosité me donne un goût certain pour l'apprentissage et l'actualisation de mes acquis dans un monde en constante évolution. 
