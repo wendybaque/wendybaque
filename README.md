@@ -5,10 +5,10 @@
 - 📫 How to reach me... here : https://linktr.ee/Antiigone
 
 
-# Hard Skills :
+# Hard Skills 
 Javascript | HTML5 | CSS3 | React.js | Node.js | Express.js | MySQL
 
-# Design :
+# Design 
 Figma | Canva | Tailwind css 
 
 # A propos de moi
