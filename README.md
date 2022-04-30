@@ -9,7 +9,7 @@
 Javascript | HTML5 | CSS3 | React.js | Node.js | Express.js | MySQL
 
 # Design 
-Figma | Canva | Tailwind css 
+Figma | Canva | Tailwind css | Marvel app
 
 # A propos de moi
 
