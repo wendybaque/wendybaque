@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @wendybaque
-- 👀 I’m interested in code, health, books, writting, yoga and reading.
-- 🌱 I’m currently learning web developpement and writing my 5th book !
-- 💞️ I’m looking to collaborate on wild code school.
-- 📫 How to reach mein my portfolio : https://wendybaquedevweb.netlify.app/
+- 👋 Bonjour, je suis @wendybaque
+- 👀 Je suis intéressée par le code (évidemment !), le yoga, la lecture, l'écriture et la nature !
+- 🌱 En ce moment, je suis en train d'apprendre le développement web !
+- 📫 Vous pouvez voir mes projets et mon profil sur mon portfolio : https://wendybaquedevweb.netlify.app/
 
 
 # Hard Skills 
