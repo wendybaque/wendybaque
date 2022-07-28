@@ -2,7 +2,7 @@
 - 📚 Je suis intéressée par le code (évidemment !), le yoga, la lecture, l'écriture et la nature !
 - 💻 En ce moment, je suis en train d'apprendre le développement web !
 - 🚀 Vous pouvez voir mes projets et mon profil sur mon portfolio : https://wendybaquedevweb.netlify.app/
-- Mon profil LinkedIn : [https://www.linkedin.com/in/wendy-baqu%C3%A9/](<img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">)
+- Mon profil LinkedIn : [https://www.linkedin.com/in/wendy-baqu%C3%A9/]<img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wendybaque&theme=radical&hide_langs_below=8)
 ![](https://github-readme-stats.vercel.app/api?username=wendybaque&show_icons=true&theme=radical&count_private=true)
