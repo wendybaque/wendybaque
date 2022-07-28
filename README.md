@@ -1,8 +1,9 @@
 - 👋 Bonjour, je suis @wendybaque
 - 📚 Je suis intéressée par le code (évidemment !), le yoga, la lecture, l'écriture et la nature !
 - 💻 En ce moment, je suis en train d'apprendre le développement web !
-- 🚀 Vous pouvez voir mes projets et mon profil sur (mon portfolio)[https://wendybaquedevweb.netlify.app/]
-- ✨ Mon profil (LinkedIn)[https://www.linkedin.com/in/wendy-baqu%C3%A9/)
+- 🚀 Vous pouvez voir mes projets et mon profil sur [mon portfolio](https://wendybaquedevweb.netlify.app/)
+- ✨ Mon profil [LinkedIn](https://www.linkedin.com/in/wendy-baqu%C3%A9/)
+-----------------
 
 # Quelques statistiques
 
