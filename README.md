@@ -14,8 +14,8 @@
 # Hard Skills 
 Javascript | HTML5 | CSS3 | React.js | Node.js | Express.js | MySQL | MongoDB
 
-# Design 
-Figma | Canva | Tailwind css | Marvel app
+# Design & Style
+Figma | Canva | Marvel app | Tailwind css | Bootstrap |  Styled Components
 
 # A propos de moi
 
