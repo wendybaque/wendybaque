@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=wendybaque&show_icons=true&theme=radical&count_private=true)
 
 # Hard Skills 
-Javascript | HTML5 | React.js | Node.js | Express.js | MySQL | MongoDB
+Javascript | HTML5 | React.js (Redux + Query) | Node.js | Express.js | MySQL | MongoDB | Firebase
 
 # Design & Style
 CSS3 | Figma | Canva | Marvel app | Tailwind css | Bootstrap |  Styled Components | Sass/Scss
