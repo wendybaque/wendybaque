@@ -19,23 +19,32 @@ CSS3 | Figma | Canva | Marvel app | Tailwind css | Bootstrap |  Styled Component
 
 # A propos de moi
 
-Après un bilan de compétences réalisé en full remote, je suis en reconversion dans le domaine du développement web et web mobile. 💻
+Après un bilan de compétences réalisé en full remote, je suis en reconversion professionnelle dans le domaine du développement web et web mobile. 💻 
 
-Je suis une personne rigoureuse, ce qui me permet de mener à bien mes projets et activités confiées de A à Z et de bien gérer mon temps de travail. Je fais également preuve de créativité et d' imaginativité, ce qui me pousse à trouver des solutions innovantes et originales pour répondre aux besoins des clients. Enfin, ma curiosité me donne un goût certain pour l'apprentissage et l'actualisation de mes acquis dans un monde en constante évolution. 
+A la suite de ma formation à la Wild Code School et un stage très enrichissant chez Fedmind et de bénévolat chez O Media, j'envisage de passer mon titre RNCP en février 2023, dans le but de créer ma propre entreprise qui vous proposera des solutions numériques personnalisées, modernes et adaptées à vos besoins.
 
-Etre autonome dans ma pratique est important pour moi afin d'envisager tous les possibles qui s'offrent à moi et repose avant tout sur un climat de confiance établi avec le client. Lui être utile apparaît aussi primordial pour donner un sens à mon travail. 
+✨ Je suis une personne rigoureuse, ce qui me permet de mener à bien mes projets et activités confiées de A à Z et de bien gérer mon temps de travail. Je fais également preuve de créativité et d'imaginativité, ce qui me pousse à trouver des solutions innovantes et originales pour répondre aux besoins des clients. 
 
-🎯 Ainsi, mon objectif est de m'épanouir dans un métier porteur d'avenir et de sens, me permettant de mettre à profit mes points forts au service de mes clients et/ou de mon entreprise. Je m'oriente donc vers les secteurs du digital, du numérique et de l' informatique, notamment comme développeuse web webdev.
+✨Soucieuse d’améliorer ma pratique dans un monde en constante évolution, je sais faire preuve d’adaptabilité, comme le prouve ma reconversion professionnelle dans un domaine totalement nouveau pour moi. 
 
-🚀 Les valeurs les plus importantes dans le monde du travail sont, selon moi, l’entraide, l’écoute, l’expression de soi, l’épanouissement et la réussite.
+✨ Etre autonome dans ma pratique est important pour moi afin d'envisager tous les possibles qui s'offrent à moi et repose avant tout sur un climat de confiance établi avec le client. Lui être utile apparaît aussi primordial pour donner un sens à mon travail. 
+
+✨ Enfin, ma curiosité me donne un goût certain pour l'apprentissage et l'actualisation de mes acquis dans un monde en constante évolution. 
+
+🎯 Ainsi, mon objectif est de m'épanouir dans un métier porteur d'avenir et de sens, me permettant de mettre à profit mes points forts au service de mes clients, de mes collaborateurs et de votre entreprise.
+
+🚀 Les valeurs les plus importantes dans le monde du travail sont, selon moi, l’entraide, l’écoute, l’expression de soi, l’épanouissement et la réussite. 
 
 ➕ Mon petit plus ? 
 Je suis développeuse, mais aussi psychologue ! 
 Ainsi, tout naturellement, je suis attirée par l' UX et l' UI. 
 C'est un domaine qui me parle, et qui me tient toujours à cœur. 
-Mon regard est un bonus : 100% user first !
+Mon regard est un bonus : 100% user first et centrage sur l'accessibilité !
 
-Mes domaines de prédilection son la esanté et la littérature/édition.
+➕ Mon autre petit plus ? Je suis no code friendly ! Face à la demande croissante sur des outils de solutions en ligne clés en mains comme Wordpress, Zapier ou Glide apps, ainsi que Firebase et MongoDB pour vos bases de données.
+
+🗺️ Habituée au télétravail et résidant vers Tours (37), cela reste l'une de mes priorités. 
+
 <!---
 wendybaque/wendybaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
