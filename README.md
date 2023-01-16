@@ -1,6 +1,5 @@
-- 👋 Bonjour, je suis @wendybaque
+- 👋 Bonjour, je suis @wendybaque, développeuse web et web mobile ! Et no code friendly ! 🌈
 - 📚 Je suis intéressée par le code (évidemment !), le yoga, la lecture, l'écriture et la nature !
-- 💻 En ce moment, je suis en train d'apprendre le développement web !
 - 🚀 Vous pouvez voir mes projets et mon profil sur mon [portfolio](https://wendybaquedevweb.netlify.app/)...
 - ✨ ... et en savoir plus sur mon parcours professionnel sur mon profil [LinkedIn](https://www.linkedin.com/in/wendy-baqu%C3%A9/)
 - 🔎 Vous souhaitez un aperçu de mes projets en ligne ? Rendez-vous sur mon [Linktree](https://linktr.ee/wendybaque) ! ENJOY ! 🤩
