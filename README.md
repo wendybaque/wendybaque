@@ -21,9 +21,9 @@ CSS3 | Figma | Canva | Marvel app | Tailwind css |  Styled Components | Sass/Scs
 
 [<img align="center" alt="bootstrap" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right="11px" />][Bootstrap]
   
-![<img align="center" alt="bootstrap" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right="11px" />][Bootstrap]
+<img align="center" alt="bootstrap" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right="11px" />[Bootstrap]
       
-![<img align="center" alt="bootstrap" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right="11px" />][Bootstrap]
+(<img align="center" alt="bootstrap" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right="11px" />)[Bootstrap]
 
 # En ce moment, j'apprends...
 Vue.js | Angular.js | Next.js
