@@ -13,8 +13,11 @@
 # Hard Skills 
 ## Code 
 Javascript | HTML5 | React.js (Redux + Query) | Node.js | Express.js | MySQL | MongoDB | Firebase
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="Kitten" title="A cute kitten" width="150" height="100" /> 
+<center>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="A cute kitten" width="30" height="30" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="A cute kitten" width="30" height="30" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="A cute kitten" width="30" height="30" /> 
+</center>
 
 ## No-code
 Glideapp | Softr | Zapier | Jotform | Notion | Airtable
