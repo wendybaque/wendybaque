@@ -1,6 +1,6 @@
 - 👋 Bonjour, je suis @wendybaque, développeuse web et web mobile ! Et no code friendly ! 🌈
 - 📚 Je suis intéressée par le code (évidemment !), le yoga, la lecture, l'écriture et la nature !
-- 🚀 Vous pouvez voir mes projets et mon profil sur mon [portfolio](https://wendybaquedevweb.netlify.app/)...
+- 🚀 Vous pouvez voir mes projets et mon profil sur mon [portfolio](https://wendybaqueportfoliodev.wendev.fr/)...
 - ✨ ... et en savoir plus sur mon parcours professionnel sur mon profil [LinkedIn](https://www.linkedin.com/in/wendy-baqu%C3%A9/)
 - 🔎 Vous souhaitez un aperçu de mes projets en ligne ? Rendez-vous sur mon [Linktree](https://linktr.ee/wendybaque) ! ENJOY ! 🤩
 -----------------
@@ -13,8 +13,19 @@
 # Hard Skills 
 Javascript | HTML5 | React.js (Redux + Query) | Node.js | Express.js | MySQL | MongoDB | Firebase
 
+# Soft Skills 
+Autonomie | Réactivité | Adaptabilité | Motiviation | Persévérance | Agilité | Capacité à prendre du recul | Capacité à gérer ses émotions | Curiosité | Empathie
+
 # Design & Style
-CSS3 | Figma | Canva | Marvel app | Tailwind css | Bootstrap |  Styled Components | Sass/Scss
+CSS3 | Figma | Canva | Marvel app | Tailwind css |  Styled Components | Sass/Scss
+![<img align="center" alt="bootstrap" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right="11px"]
+  
+![<img align="center" alt="bootstrap" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right="11px"]
+      
+![<img align="center" alt="bootstrap" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right="11px"]
+
+# En ce moment, j'apprends...
+Vue.js | Angular.js | Next.js
 
 # A propos de moi
 
