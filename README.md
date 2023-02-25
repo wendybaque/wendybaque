@@ -8,7 +8,7 @@
 # Quelques statistiques
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendybaque&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wendybaque&theme=radical&hide_langs_below=8)![image](https://user-images.githubusercontent.com/99959128/221352816-5aa12369-d7f3-4607-9927-227d74c29225.png)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wendybaque&theme=radical&hide_langs_below=8)
 
 
 # Hard Skills 
