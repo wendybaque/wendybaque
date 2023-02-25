@@ -11,18 +11,19 @@
 ![](https://github-readme-stats.vercel.app/api?username=wendybaque&show_icons=true&theme=radical&count_private=true)
 
 # Hard Skills 
+## Code 
 Javascript | HTML5 | React.js (Redux + Query) | Node.js | Express.js | MySQL | MongoDB | Firebase
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="Kitten" title="A cute kitten" width="150" height="100" /> 
+
+## No-code
+Glideapp | Softr | Zapier | Jotform | Notion | Airtable
 
 # Soft Skills 
 Autonomie | Réactivité | Adaptabilité | Motiviation | Persévérance | Agilité | Capacité à prendre du recul | Capacité à gérer ses émotions | Curiosité | Empathie
 
 # Design & Style
-CSS3 | Figma | Canva | Marvel app | Tailwind css |  Styled Components | Sass/Scss
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)">
- <source media="(prefers-color-scheme: light)" srcset="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)">
- <img alt="YOUR-ALT-TEXT" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)">
-</picture>
+CSS3 | Figma | Canva | Marvel app | Tailwind css |  Styled Components | Sass/Scss | Bootstrap
 
 # En ce moment, j'apprends...
 Vue.js | Angular.js | Next.js
