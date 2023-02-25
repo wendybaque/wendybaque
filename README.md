@@ -14,9 +14,7 @@
 ## Code 
 Javascript | HTML5 | React.js (Redux + Query) | Node.js | Express.js | MySQL | MongoDB | Firebase
 <center>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="A cute kitten" width="30" height="30" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="A cute kitten" width="30" height="30" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="A cute kitten" width="30" height="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="A cute kitten" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="A cute kitten" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="A cute kitten" width="30" height="30" /> 
 </center>
 
 ## No-code
