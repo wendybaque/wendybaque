@@ -7,13 +7,13 @@
 
 # Quelques statistiques
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendybaque&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=wendybaque&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25&theme=radical&count_private=true)
 
 # Hard Skills 
 ## Code 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 [<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
@@ -37,9 +37,10 @@ Autonomie | Réactivité | Adaptabilité | Motiviation | Persévérance | Agilit
 [<img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />]
 
 # En ce moment, j'apprends...
-[<img align="left" alt="Angular" width="26px" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;" />]
+
+<img align="left" alt="Angular" width="26px" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;" />
 
 # A propos de moi
 
