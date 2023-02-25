@@ -19,9 +19,9 @@ Autonomie | Réactivité | Adaptabilité | Motiviation | Persévérance | Agilit
 # Design & Style
 CSS3 | Figma | Canva | Marvel app | Tailwind css |  Styled Components | Sass/Scss
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)">
+ <source media="(prefers-color-scheme: dark)" srcset="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)">
+ <source media="(prefers-color-scheme: light)" srcset="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)">
+ <img alt="YOUR-ALT-TEXT" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)">
 </picture>
 
 # En ce moment, j'apprends...
