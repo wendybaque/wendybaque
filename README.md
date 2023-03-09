@@ -6,9 +6,14 @@
 -----------------
 
 # Quelques statistiques
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendybaque&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wendybaque&&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25theme=radical&hide_langs_below=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wendybaque&label=Profile%20views&color=0e75b6&style=flat" alt="wendybaque" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendybaque&show_icons=true&locale=en&layout=compact" alt="wendybaque" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendybaque&show_icons=true&locale=en" alt="wendybaque" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendybaque" alt="wendybaque" /></a> </p>
 
 
 # Hard Skills Code 
