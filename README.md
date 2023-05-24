@@ -77,17 +77,6 @@ Mon regard est un bonus : 100% user first et centrage sur l'accessibilité !
 
 🗺️ Habituée au télétravail et résidant vers Tours (37), cela reste l'une de mes priorités. 
 
-### My daily routine :
-
-```mermaid
-  graph TD;
-      Code-->Eat;
-      Write-->Eat;
-      Eat-->Sleep;
-      Sleep-->Code;
-      Sleep-->Write;
-```
-
 <!---
 wendybaque/wendybaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
