@@ -75,7 +75,7 @@ Mon regard est un bonus : 100% user first et centrage sur l'accessibilité !
 
 ➕ Mon autre petit plus ? Je suis no code friendly ! Face à la demande croissante sur des outils de solutions en ligne clés en mains, je me suis formée au no-code et vous propose des solutions pour augmenter votre productivité et votre efficacité.
 
-🗺️ Habituée au télétravail et résidant vers Tours (37), cela reste l'une de mes priorités. ![image](https://github.com/wendybaque/wendybaque/assets/99959128/ee90a853-4797-4c17-841e-b10125aac12b)
+🗺️ Habituée au télétravail et résidant vers Tours (37), cela reste l'une de mes priorités. !
 
 
 <!---
