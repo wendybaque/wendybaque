@@ -79,7 +79,7 @@ Mon regard est un bonus : 100% user first et centrage sur l'accessibilité !
 
 How much days befor next year ⏱ : **164 day before 2024 ⏱**
 
-Added the `Mon 3 Jan 2022`
+Added the `Fri jul 21 2023`
 
 Last update on Fri Jul 21 2023
 
