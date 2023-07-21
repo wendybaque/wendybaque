@@ -77,6 +77,13 @@ Mon regard est un bonus : 100% user first et centrage sur l'accessibilité !
 
 🗺️ Habituée au télétravail et résidant vers Tours (37), cela reste l'une de mes priorités. !
 
+How much days befor next year ⏱ : **164 day before 2024 ⏱**
+
+Added the `Mon 3 Jan 2022`
+
+Last update on Fri Jul 21 2023
+
+🤖 This README.md is updated with cruelty, by Gabot ❤️
 
 <!---
 wendybaque/wendybaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
