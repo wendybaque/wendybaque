@@ -55,7 +55,7 @@ Je suis développeuse web front-end en freelance ! 💻
 
 A la suite de ma formation à la Wild Code School et un stage très enrichissant chez Fedmind et de bénévolat chez O Media et Nelixair, ainsi que plusieurs side projects, j'ai créé [WenDev](https://www.wendev.fr/), ma micro-entreprise qui propose des solutions numériques personnalisées, modernes et adaptées à vos besoins.
 
-📖 Je suis aussi l' [auteure de 4 romans](https://wendybaqueauteure.wendev.fr/), en maison d'édition et en auto-édition. C'est pour cela que j'ai à cœur de proposer une offre de services inédite et adaptée aux auteurs de livres en tous genres. 
+📖 Je suis aussi l' [auteure de 4 romans](https://www.wendybaqueauteure.com/), en maison d'édition et en auto-édition. C'est pour cela que j'ai à cœur de proposer une offre de services inédite et adaptée aux auteurs de livres en tous genres. 
 
 ✨ Je suis une personne rigoureuse, ce qui me permet de mener à bien mes projets et activités confiées de A à Z et de bien gérer mon temps de travail. Je fais également preuve de créativité et d'imaginativité, ce qui me pousse à trouver des solutions innovantes et originales pour répondre aux besoins des clients. 
 
