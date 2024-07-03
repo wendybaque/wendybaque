@@ -1,6 +1,6 @@
-- 👋 Bonjour, je suis @wendybaque, développeuse web et web mobile ! Et no code friendly ! 🌈
+- 👋 Bonjour, je suis @wendybaque, développeuse web front-end en freelance et no code friendly ! 🌈
 - 📚 Je suis intéressée par le code (évidemment !), le yoga, la lecture, l'écriture et la nature !
-- 🚀 Vous pouvez voir mes projets et mon profil sur mon [portfolio](https://wendybaqueportfoliodev.wendev.fr/)...
+- 🚀 Vous pouvez voir mes projets et mon profil sur mon [site pro](https://www.wendev.fr/)...
 - ✨ ... et en savoir plus sur mon parcours professionnel sur mon profil [LinkedIn](https://www.linkedin.com/in/wendy-baqu%C3%A9/)
 - 🔎 Vous souhaitez un aperçu de mes projets en ligne ? Rendez-vous sur mon [Linktree](https://linktr.ee/wendybaque) ! ENJOY ! 🤩
 -----------------
